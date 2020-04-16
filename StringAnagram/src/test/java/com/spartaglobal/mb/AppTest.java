@@ -52,6 +52,6 @@ public class AppTest {
     }
     @Test
     public void testThatSpacesAreIgnoredInOneWord() {
-        Assertions.assertTrue(stringAnagram.isStringAnagram("basipar achromatin", "marsipobranchiata"));
+        Assertions.assertTrue(stringAnagram.isStringAnagram("basipar achromatin", "marsipob      ranchiata"));
     }
 }
