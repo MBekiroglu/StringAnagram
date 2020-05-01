@@ -23,4 +23,7 @@ Please write the unit tests for your solution using any of the unit testing fram
 5. Capitalisation  is accounted for
 
 ### Improvements
-1. Spaces within Strings are not ignored, and this could be accounted for
+1. Spaces within Strings are now accounted for.
+
+### Possible Improvements
+1. Spaces after Strings are not accounted for.
